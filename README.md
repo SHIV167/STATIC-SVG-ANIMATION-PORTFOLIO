@@ -1,4 +1,4 @@
-# harshgoel05.github.io
+# SHIV KUMAR JHA
 
 Hey guys!This is the source code for my **portfolio v2.**<br>
 Made using: <br>
@@ -9,7 +9,7 @@ Made using: <br>
 :point_right: PARTICLE JS <br> 
 
 <br>
-<a href="https://github.com/harshgoel05/harshgoel05.github.io/fork">[Fork this on github]</a>
+<a href="https://github.com/SHIV167/STATIC_PORTFOLIO/">[Fork this on github]</a>
 <br>
 > Feel free to use it unless its not for professional work
 
