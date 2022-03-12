@@ -9,7 +9,7 @@ Made using: <br>
 :point_right: PARTICLE JS <br> 
 
 <br>
-<a href="https://github.com/SHIV167/STATIC_PORTFOLIO/">[Fork this on github]</a>
+<a href="https://github.com/SHIV167/STATIC_PORTFOLIO/fork">[Fork this on github]</a>
 <br>
 > Feel free to use it unless its not for professional work
 
